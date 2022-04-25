@@ -1,0 +1,11 @@
+{
+  "name": "dice616",
+  "version": "1.0.0",
+  "description": "Dice roller for playtest rules of the Marvel Mulitverse Role-Playing Game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Rainey",
+  "license": "MIT"
+}
