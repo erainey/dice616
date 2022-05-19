@@ -1,5 +1,6 @@
 
     // singleRoll() will return the result of a single 6-sided die roll
+    // min/max values are optional, and max is excluded from the range of possible values
     function singleRoll(min: number = 1, max: number = 7): number {
         return Math.floor(Math.random() * (max - min + 1) + min);
     }
